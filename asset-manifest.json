@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myliveweb/static/css/main.a21791ea.css",
+    "main.js": "/myliveweb/static/js/main.52725ad9.js",
+    "static/media/software.jpg": "/myliveweb/static/media/software.f0dc87ff1f58bda9abef.jpg",
+    "static/media/app.jpg": "/myliveweb/static/media/app.fd31b25ceef34d59c896.jpg",
+    "static/media/imgg.jpg": "/myliveweb/static/media/imgg.2cfdb449f3e33c9f2e76.jpg",
+    "static/media/design.jpg": "/myliveweb/static/media/design.059256af38d873de9143.jpg",
+    "static/media/img2.jpg": "/myliveweb/static/media/img2.db8d464b2e829d48a496.jpg",
+    "static/media/web.jpg": "/myliveweb/static/media/web.000300862b67cdd4e56b.jpg",
+    "static/media/marketing.jpg": "/myliveweb/static/media/marketing.d3324f2143da133074e2.jpg",
+    "static/media/comp.jpg": "/myliveweb/static/media/comp.83995ab67e1f1e83bbe6.jpg",
+    "static/media/digital.jpg": "/myliveweb/static/media/digital.455344f99727ff73711d.jpg",
+    "index.html": "/myliveweb/index.html",
+    "main.a21791ea.css.map": "/myliveweb/static/css/main.a21791ea.css.map",
+    "main.52725ad9.js.map": "/myliveweb/static/js/main.52725ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21791ea.css",
+    "static/js/main.52725ad9.js"
+  ]
+}
